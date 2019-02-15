@@ -1,0 +1,21 @@
+﻿  Gui.cpp
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(14): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(75): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(82): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\nguyen huy dinh\documents\visual studio 2017\project\chessgame\chessgame\gui.cpp(102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ChessGame.vcxproj -> C:\Users\Nguyen Huy Dinh\Documents\Visual Studio 2017\Project\ChessGame\Debug\ChessGame.exe
